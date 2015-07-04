@@ -1,4 +1,4 @@
-# s3cmd
+# jareware/s3cmd
 
 Docker-wrapper for the ever-so-useful `s3cmd`, with proper tags, convenient entrypoint, and two special locations within the container:
 
